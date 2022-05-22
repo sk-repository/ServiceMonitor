@@ -1,0 +1,11 @@
+[Unit]
+Description=BackendServiceMonitor
+
+[Service]
+User=root
+WorkingDirectory=/root/serverApp/
+ExecStart=/usr/bin/python3.8 serverApp.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.targe

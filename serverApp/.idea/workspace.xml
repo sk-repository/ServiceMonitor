@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6009a836-c2b4-4b3c-a825-a7742d409abc" name="Changes" comment="screenshot.sh update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22sjw64ETWtkYwuGHM3UabIhpse" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6009a836-c2b4-4b3c-a825-a7742d409abc" name="Changes" comment="" />
+      <created>1640633425274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640633425274</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Porządki w marshmallow-sqlalchemy">
+      <created>1641127692734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641127692734</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cascade delete &amp; get by name">
+      <created>1641142899644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641142899644</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cascade delete &amp; get by name">
+      <created>1641142914171</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641142914171</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cascade delete &amp; get by name">
+      <created>1641142940369</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641142940369</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change method to PUT">
+      <created>1641143052336</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641143052336</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change method to PUT">
+      <created>1641143186419</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641143186419</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Resources docs">
+      <created>1641143361574</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641143361574</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Resources cleaning &amp; docs">
+      <created>1641326648444</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1641326648444</updated>
+    </task>
+    <task id="LOCAL-00009" summary="PUT resource">
+      <created>1641388540851</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641388540851</updated>
+    </task>
+    <task id="LOCAL-00010" summary="refactor">
+      <created>1641477289898</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641477289898</updated>
+    </task>
+    <task id="LOCAL-00011" summary="refactor">
+      <created>1641477435391</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1641477435391</updated>
+    </task>
+    <task id="LOCAL-00012" summary="refactor">
+      <created>1641477761553</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1641477761553</updated>
+    </task>
+    <task id="LOCAL-00013" summary="docs">
+      <created>1641478785182</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1641478785182</updated>
+    </task>
+    <task id="LOCAL-00014" summary="zmiana kluczy słowników + rekord testowy">
+      <created>1641738825449</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1641738825449</updated>
+    </task>
+    <task id="LOCAL-00015" summary="metoda PUT na bazie DELETE + INSERT">
+      <created>1642277252193</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1642277252193</updated>
+    </task>
+    <task id="LOCAL-00016" summary="rename resources + docs">
+      <created>1642327483516</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1642327483516</updated>
+    </task>
+    <task id="LOCAL-00017" summary="folder cleaning">
+      <created>1642327818812</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1642327818812</updated>
+    </task>
+    <task id="LOCAL-00018" summary="usuniecie finally">
+      <created>1642328504803</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1642328504803</updated>
+    </task>
+    <task id="LOCAL-00019" summary="timestamp as epochetime">
+      <created>1642360555271</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1642360555271</updated>
+    </task>
+    <task id="LOCAL-00020" summary="mock index.html">
+      <created>1642451589974</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1642451589974</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add CORS">
+      <created>1651256311341</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1651256311341</updated>
+    </task>
+    <task id="LOCAL-00022" summary="height data row">
+      <created>1651598445029</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1651598445030</updated>
+    </task>
+    <task id="LOCAL-00023" summary="screenshot.sh update">
+      <created>1651599022364</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1651599022364</updated>
+    </task>
+    <task id="LOCAL-00024" summary="/getAllStatus sorted by hostname">
+      <created>1651771513008</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1651771513008</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Porządki w marshmallow-sqlalchemy" />
+    <MESSAGE value="cascade delete &amp; get by name" />
+    <MESSAGE value="change method to PUT" />
+    <MESSAGE value="Resources docs" />
+    <MESSAGE value="Resources cleaning &amp; docs" />
+    <MESSAGE value="PUT resource" />
+    <MESSAGE value="refactor" />
+    <MESSAGE value="docs" />
+    <MESSAGE value="zmiana kluczy słowników + rekord testowy" />
+    <MESSAGE value="metoda PUT na bazie DELETE + INSERT" />
+    <MESSAGE value="rename resources + docs" />
+    <MESSAGE value="folder cleaning" />
+    <MESSAGE value="usuniecie finally" />
+    <MESSAGE value="timestamp as epochetime" />
+    <MESSAGE value="mock index.html" />
+    <MESSAGE value="add CORS" />
+    <MESSAGE value="height data row" />
+    <MESSAGE value="screenshot.sh update" />
+    <MESSAGE value="/getAllStatus sorted by hostname" />
+    <option name="LAST_COMMIT_MESSAGE" value="/getAllStatus sorted by hostname" />
+  </component>
+</project>

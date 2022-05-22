@@ -1,0 +1,12 @@
+[Unit]
+Description=FrontendServiceMonitor
+
+[Service]
+User=root
+WorkingDirectory=/usr/lib/firefox-esr/
+ExecStart=xinit /usr/lib/firefox-esr/firefox-esr -kiosk http://127.0.0.1:3074/ --full-screen -height 1080 -width 1920
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+After=ServiceMonitor.service

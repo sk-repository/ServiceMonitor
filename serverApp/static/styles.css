@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
+
+body {
+    display: -webkit-flex; /* Safari */     
+    display: flex; /* Standard syntax */
+    background-color: #1a202b;
+    font-family: 'Ubuntu Mono';
+    cursor: none;
+}
+
+.container {
+    display: -webkit-flex; /* Safari */     
+    display: flex; /* Standard syntax */
+    flex: 1;
+    margin: 0 auto;
+    flex-direction: column;
+    color: #ffffff;
+    /* border: 1px solid #ffffff; */
+}
+
+.headers {
+    background-color: #1a202b;
+    display: -webkit-flex; /* Safari */     
+    display: flex; /* Standard syntax */
+    /* width: 100%; */
+    height: 125px;
+    color: #ffffff;
+    /* border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+    border-left: 1px solid #ffffff; */
+}
+
+.header_card {
+    -webkit-flex: 1; /* Safari */
+    -ms-flex: 1; /* IE 10 */
+    flex: 1; /* Standard syntax */
+    display: -webkit-flex; /* Safari */     
+    display: flex; /* Standard syntax */
+    /* border-right: 1px solid #ffffff; */
+    /* transform: rotate(-90deg); */
+    height: 120px;
+    align-items: center;
+    justify-content: center;
+}
+
+.header_text {
+    line-height: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    transform: rotate(-90deg);
+}
+
+.data {
+    display: -webkit-flex; /* Safari */     
+    display: flex; /* Standard syntax */
+    flex-direction: column;
+    color: #ffffff;
+}
+
+.data_row{
+    display: -webkit-flex; /* Safari */     
+    display: flex; /* Standard syntax */
+    /* border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+    border-left: 1px solid #ffffff; */
+}
+
+.data_card {
+    display: -webkit-flex; /* Safari */     
+    display: flex; /* Standard syntax */
+    flex-direction: column;
+    /* border-right: 1px solid #ffffff; */
+    /* transform: rotate(-90deg); */
+    flex: 1; /* Standard syntax */
+    display: -webkit-flex; /* Safari */     
+    display: flex; /* Standard syntax */
+    height: 52px;
+    align-items: center;
+    justify-content: center;
+}
+
+.data_img {
+
+}
+
+.data_text {
+    line-height: 8px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+/* Stopka */
+.footer_bar {
+    position:fixed; 
+    bottom:0px; 
+    left:0px; 
+    right:0px; 
+    color: #ffffff;
+    font-family: Ubuntu Mono;
+}
+#timestamp {
+    display:inline;
+}
+
+/* Statusy */
+.status_failed { 
+    color: #fcb1b2;
+    font-size: 18px;
+}
+.status_ok{ 
+    color: #6aa8a9;
+    font-size: 18px;
+}

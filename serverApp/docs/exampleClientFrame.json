@@ -1,0 +1,112 @@
+{
+    "timestamp": 1651850643000,
+    "host_name": "app.pntopole",
+    "services": [
+        {
+            "name": "postgres",
+            "status": "ok",
+            "since": 1649836901000,
+            "uptime": 2013740
+        },
+        {
+            "name": "wildfly",
+            "status": "ok",
+            "since": 1649836901000,
+            "uptime": 2013740
+        },
+        {
+            "name": "pm",
+            "status": "ok",
+            "since": 1649121580000,
+            "uptime": 2729061
+        },
+        {
+            "name": "osrm",
+            "status": "ok",
+            "since": 1649121574000,
+            "uptime": 2729067
+        },
+        {
+            "name": "shinyserver",
+            "status": "ok",
+            "since": 1649121277000,
+            "uptime": 2729364
+        },
+        {
+            "name": "pxvs-dp",
+            "status": "ok",
+            "since": 1649121574000,
+            "uptime": 2729067
+        },
+        {
+            "name": "pxvs-tp",
+            "status": "ok",
+            "since": 1649121574000,
+            "uptime": 2729067
+        },
+        {
+            "name": "pxvs-dc",
+            "status": "ok",
+            "since": 1649121574000,
+            "uptime": 2729068
+        },
+        {
+            "name": "proftpd",
+            "status": "ok",
+            "since": 1649121576000,
+            "uptime": 2729066
+        },
+        {
+            "name": "ntpserver",
+            "status": "ok",
+            "since": 1649121574000,
+            "uptime": 2729068
+        },
+        {
+            "name": "videoproxy",
+            "status": "ok",
+            "since": 1649121580272,
+            "uptime": 2729062
+        },
+        {
+            "name": "rdm",
+            "status": "ok",
+            "since": 1649121580276,
+            "uptime": 2729062
+        },
+        {
+            "name": "pxda-dp",
+            "status": "ok",
+            "since": 1649121580384,
+            "uptime": 2729062
+        },
+        {
+            "name": "pxmap",
+            "status": "ok",
+            "since": 1649121580386,
+            "uptime": 2729062
+        }
+    ],
+    "storages": [
+        {
+            "mnt": "root",
+            "used": "39%",
+            "size": "49G"
+        },
+        {
+            "mnt": "logs",
+            "used": "25%",
+            "size": "49G"
+        },
+        {
+            "mnt": "pgsql",
+            "used": "25%",
+            "size": "149G"
+        },
+        {
+            "mnt": "pixel",
+            "used": "89%",
+            "size": "1007G"
+        }
+    ]
+}
